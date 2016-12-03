@@ -1,0 +1,1 @@
+JavaScript library with basic statistical tools like Averange, Mean, Normalization, Pearsons's r, Cronbach's alpha etc.
